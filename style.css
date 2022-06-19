@@ -1,0 +1,105 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family:'Courier New', Courier, monospace;
+    color: #f4f800;
+}
+h1{
+    color:rgb(28, 48, 227);
+    font-size: 35px;
+    margin:10px auto 100px auto;
+    font-family: cursive;
+    background-color:rgb(237, 74, 126);
+    
+    
+}
+h2{
+    color:darkblue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: coral;
+    width: 30%;
+}
+h3{
+    color:purple;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: rgb(193, 233, 99);
+}
+h4{
+    color:red;
+    font-size: 20px;
+    margin:auto;
+    background-color: yellow;
+}
+.profile{
+    background-color: aqua;
+}  
+.logo{
+    width: 30%;
+    padding-top: 50px;
+}
+.skill-img{
+    width: 11em;
+
+}
+p{
+    color:rgb(0, 64, 255);
+}
+.middle-container{
+    margin: 10px;
+}
+hr{
+    border: dotted rgb(225, 209, 209) 6px;
+    border-bottom: none;
+    width: 6%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+.contact-message{
+    width: 40%;
+    margin: 40px auto 60px;
+}
+.btn {
+    background: #7ad9ff;
+    background-image: -webkit-linear-gradient(top, #7ad9ff, #e349d9);
+    background-image: -moz-linear-gradient(top, #7ad9ff, #e349d9);
+    background-image: -ms-linear-gradient(top, #7ad9ff, #e349d9);
+    background-image: -o-linear-gradient(top, #7ad9ff, #e349d9);
+    background-image: linear-gradient(to bottom, #7ad9ff, #e349d9);
+    -webkit-border-radius: 7;
+    -moz-border-radius: 7;
+    border-radius: 7px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 5px 20px 5px 20px;
+    text-decoration: none;
+    
+  }
+  
+  .btn:hover {
+    background: #3cb0fd;
+    background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+    text-decoration: none;
+  }
+  .bottom-container{
+    background-color: #91d7f3;
+    margin-top: 50px;
+    margin-bottom: 0;
+    padding:20px 0 20px;
+  }
+  a{
+    color: #f80800;
+    font-family:Arial, Helvetica, sans-serif;
+    text-decoration: none;
+  }
+  a:hover{
+    color: #e5fc1a;
+  }
+  .copyright{
+    color: #ffffff;
+    font-size: 1rem;
+  }
